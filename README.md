@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 Hey there, I'm Elijah Ajayi
+Hey there, I'm Elijah Snoz
 
 ### Full-Stack Developer | Blockchain Engineer | AI Integration Specialist
 
-*Building the future of web3 and e-commerce, one line of code at a time* 🚀
+*Building the future of web3 * 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-ajayi-1a6901180/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elijahsnoz)
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **Blockchain Engineer** with a focus on creating cutting-edge web applications that combine beautiful UI/UX design with powerful backend systems. I specialize in building scalable e-commerce platforms, integrating AI technologies, and developing blockchain solutions.
+I'm an artist and a passionate **Full-Stack Developer** and **Blockchain Engineer** with a focus on creating cutting-edge web applications that combine beautiful UI/UX design with powerful backend systems. I specialize in building scalable e-commerce platforms, integrating AI technologies, and developing blockchain solutions.
 
 ```typescript
 const elijah = {
